@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the AGIAL experimental records using this metadata."
+type: dataset
+title: "AGIAL: Experimental Records"
+authors:
+  - family-names: Zhang
+    given-names: Shuangyue
+  - family-names: Cai
+    given-names: Jianping
+url: "https://github.com/imcjp/AGIAL"
+abstract: "Original Chinese experimental records, English translations, and score tables for the AGIAL anti-Pascal triangle study."

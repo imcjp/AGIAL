@@ -1,0 +1,5 @@
+# Research-artifact hashes cover exact bytes across all checkouts.
+* -text
+*.png binary
+*.pdf binary
+*.xlsx binary
